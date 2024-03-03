@@ -1,0 +1,5 @@
+'mkos-BigSur-Dark-gtk'
+'Mkos-Big-Sur-Transparent-Panel'
+'Cursor-macOSBigSur'
+'file:///home/euotiniel/Imagens/Pap%C3%A9is%20de%20parede/Appearance.png'
+0.98999999999999999
